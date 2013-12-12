@@ -3,6 +3,12 @@
 Codo is a [CoffeeScript](http://coffeescript.org/) API documentation generator, similar to [YARD](http://yardoc.org/).
 Its generated documentation is focused on CoffeeScript class syntax for classical inheritance.
 
+## Upcoming Features
+
+* increase tag identities throughout
+* modular customizable rules
+* cleaner documentation output
+
 ## Features
 
 * Detects classes, methods, constants, mixins & concerns.
